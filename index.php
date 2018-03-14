@@ -1,3 +1,4 @@
 <?php
-	echo "masuk deh.";
+	echo "masuk deh."."<br>";
+	echo "udah ditambahi.";
 ?>
